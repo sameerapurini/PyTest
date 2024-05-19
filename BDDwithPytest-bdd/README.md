@@ -1,5 +1,5 @@
 
-# BDD Cucumber automation tests Python Based selenium project for api and Web testing
+# BDD Cucumber Python Based selenium API and UI automation tests
 This is an automation project for testing using using `pytest` and `pytest-bdd`
 
 
